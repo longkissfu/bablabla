@@ -1,3 +1,1 @@
 22wophpinfi();again;
-
-phpinfo();
