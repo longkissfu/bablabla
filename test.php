@@ -1,0 +1,3 @@
+22wophpinfi();again;
+
+phpinfo();
